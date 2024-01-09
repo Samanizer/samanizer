@@ -1,4 +1,4 @@
-# Hey, I'm Sam (Shamsher) 👋
+# Hey, I'm Shamsher 👋
 
 ### About Me
 
