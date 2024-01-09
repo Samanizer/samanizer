@@ -1,7 +1,5 @@
 <img src="top.svg" />
 
-# Hey, I'm Shamsher 👋
-
 ### About Me
 
 I have been:
