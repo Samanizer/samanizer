@@ -1,4 +1,33 @@
-### Hi there 👋
+### About Me
+
+I have been:
+
+* co-founder
+* CTO
+* Software Engineer
+* Systems Architect
+* and anything in-between
+
+that was required to envision, design, prototype, build and ship Software products from 0 to 1.
+
+Currently at [Bluelight Systems](https://bluelightsystems.net) which I co-founded, most of my repos are private as our clients are mainly government agencies.
+I want to change this in 2024
+
+### Current Plans (2024)
+
+* Completely dive **deep** (actual pun) into AI/ML and their applications
+* Create a few open source projects
+* Contribute to projects I care about (there are so many)
+* Build 2 games in each Unity & Unreal, leveraging AI as much as possible
+
+### Fun fact
+
+I once built a network system for a client's supply-chain application using a closed internal telephone exchange at an Airport, as due to "security" any private networking was not allowed!
+
+### Reach me
+
+[LinkedIn](https://www.linkedin.com/in/shamsher-singh-36766154/)
+
 
 <!--
 **Samanizer/samanizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
