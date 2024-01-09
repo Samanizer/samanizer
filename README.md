@@ -22,6 +22,23 @@ I want to change this in 2024
 * Contribute to projects I care about (there are so many)
 * Build 2 games in each Unity & Unreal, leveraging AI as much as possible
 
+### My tools & stack
+
+- **Backend**
+- Python, Go, nodejs, C#
+- **Frontend**
+- Vue, Svelte, Flutter
+- **Databases**
+- Postgres, MySQL, MariaDB, Oracle, MS-SQL, SqLite
+- **DevOps**
+- CI/CD, Docker, Github
+- **Cloud Computing**
+- AWS, Azure
+- **AI/ML**
+- PyTorch, Langchain
+- **Some Familiarity with**
+- Kubernetes, React, C++, Unity & Unreal Game Engines
+
 ### Fun fact
 
 I once built a network system for a client's supply-chain application using a closed internal telephone exchange at an Airport, as due to "security" any private networking was not allowed!
