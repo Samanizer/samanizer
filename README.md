@@ -25,19 +25,19 @@ I want to change this in 2024
 ### My tools & stack
 
 - **Backend**
-- Python, Go, nodejs, C#
-- **Frontend**
-- Vue, Svelte, Flutter
+  Python, Go, nodejs, C#
+ **Frontend**
+  Vue, Svelte, Flutter
 - **Databases**
-- Postgres, MySQL, MariaDB, Oracle, MS-SQL, SqLite
+  Postgres, MySQL, MariaDB, Oracle, MS-SQL, SqLite
 - **DevOps**
-- CI/CD, Docker, Github
+  CI/CD, Docker, Github
 - **Cloud Computing**
-- AWS, Azure
+  AWS, Azure
 - **AI/ML**
-- PyTorch, Langchain
+  PyTorch, Langchain
 - **Some Familiarity with**
-- Kubernetes, React, C++, Unity & Unreal Game Engines
+  Kubernetes, React, C++, Unity & Unreal Game Engines
 
 ### Fun fact
 
