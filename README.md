@@ -2,23 +2,17 @@
 
 ### About Me
 
-I have been:
-
-* co-founder
-* CTO
-* Software Engineer
-* Systems Architect
-* and anything in-between
-
-that was required to envision, design, prototype, build and ship Software products from 0 to 1.
-
-Currently at [Bluelight Systems](https://bluelightsystems.net) which I co-founded, most of my repos are private as our clients are mainly government agencies.
+I work at [Bluelight Systems](https://bluelightsystems.net) as Engineering Manager, most of my repos are private as our clients are government agencies.
 I want to change this in 2024
 
 ### Current Plans (2024)
 
-* Completely dive **deep** (actual pun) into AI/ML and their applications
-* Create a few open source projects
+* Completely dive **deep** (actual pun) into AI/ML and their applications in businesses using RAG and other methods
+* Work on a few open source projects,
+    * am working on ways to enhance current databases to match better with AI workflow
+    * Just-in-time AI models to run quickly on edge/devices/ local GPU
+    * Language to action, with measures to account for intentional/un-intentional destructuve instruction
+    * Design document/transaction workflows for the AI/ML age
 * Contribute to projects I care about (there are so many)
 * Build 2 games in each Unity & Unreal, leveraging AI as much as possible
 
@@ -41,11 +35,11 @@ I want to change this in 2024
 
 ### Fun fact
 
-I once built a network system for a client's supply-chain application using a closed internal telephone exchange at an Airport, as due to "security" any private networking was not allowed!
+I once built a network system for a client's supply-chain application using a closed internal telephone exchange at an Airport, where due to "security" any private networking was not allowed!
 
 ### Reach me
 
-[LinkedIn](https://www.linkedin.com/in/shamsher-singh-36766154/)
+[LinkedIn](https://www.linkedin.com/in/samintech/)
 
 
 <!--
