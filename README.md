@@ -25,11 +25,11 @@ I want to change this in 2024
 - **Databases**
   Postgres, MySQL, MariaDB, Oracle, MS-SQL, SqLite
 - **DevOps**
-  CI/CD, Docker, Github
+  CI/CD, Docker, Github, Gitlab
 - **Cloud Computing**
   AWS, Azure
 - **AI/ML**
-  PyTorch, Langchain
+  PyTorch, Langchain, Superduperdb, Scikit
 - **Some Familiarity with**
   Kubernetes, React, C++, Unity & Unreal Game Engines
 
