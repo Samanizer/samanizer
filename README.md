@@ -7,14 +7,14 @@ I want to change this in 2024
 
 ### Current Plans (2024)
 
-* Completely dive **deep** (actual pun) into AI/ML and their applications in businesses using RAG and other methods
-* Work on a few open source projects,
-    * am working on ways to enhance current databases to match better with AI workflow
+* Completely dive **deep** (actual pun) into AI/ML and their applications in enterprise using RAG and custom agents
+* Work on a few open source projects:
+    * Enhanced relational databases to match better with AI workflow
     * Just-in-time AI models to run quickly on edge/devices/ local GPU
     * Language to action, with measures to account for intentional/un-intentional destructuve instruction
-    * Design document/transaction workflows for the AI/ML age
+    * Document/transaction workflows for the AI/ML age (for example in supply chain)
 * Contribute to projects I care about (there are so many)
-* Build 2 games in each Unity & Unreal, leveraging AI as much as possible
+* Build 2 games, one in each Unity & Unreal, leveraging AI as much as possible
 
 ### My tools & stack
 
