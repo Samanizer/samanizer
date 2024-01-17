@@ -7,7 +7,7 @@ I want to change this in 2024
 
 ### Current Plans (2024)
 
-* Completely dive **deep** (actual pun) into AI/ML and their applications in enterprise using RAG and custom agents
+* Continue research for applications in enterprise using RAG and custom agents
 * Work on a few open source projects:
     * Enhanced relational databases to match better with AI workflow
     * Just-in-time AI models to run quickly on edge/devices/ local GPU
