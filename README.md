@@ -2,7 +2,7 @@
 
 ### About Me
 
-I work at [Bluelight Systems](https://bluelightsystems.net) as Engineering Manager, most of my repos are private as our clients are government agencies.
+I am a Software Engineer working at [Bluelight Systems](https://bluelightsystems.net) as a Tech Lead, most of my repos are private as our clients are government agencies.
 I want to change this in 2024
 
 ### Current Plans (2024)
