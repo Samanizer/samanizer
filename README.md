@@ -3,16 +3,18 @@
 ### About Me
 
 I am a Software Engineer working at [Bluelight Systems](https://bluelightsystems.net) as a Tech Lead, most of my repos are private as our clients are government agencies.
-I want to change this in 2024
+I am an Automation junkie ... and current AI/ML landscape is very exciting for me. I want to build general autonomous workers (GAWs) and free people to do what they love.
 
-### Current Plans (2024)
 
-* Continue research for applications in enterprise using RAG and custom agents
+### Current Plans (2025)
+
+* Continue research for applications in AI, Automation and custom agents
+* Create Automation workflows for operating common workflows using AI agents
 * Work on a few open source projects:
     * Enhanced relational databases to match better with AI workflow
-    * Just-in-time AI models to run quickly on edge/devices/ local GPU
-    * Language to action, with measures to account for intentional/un-intentional destructuve instruction
-    * Document/transaction workflows for the AI/ML age (for example in supply chain)
+    * Just-in-time AI models to run quickly on edge/devices/IoT and local hardware
+    * Language to action, with measures to account for intentional/un-intentional instruction
+    * Document/transaction workflows for the AI/ML age 
 * Contribute to projects I care about (there are so many)
 * Build 2 games, one in each Unity & Unreal, leveraging AI as much as possible
 
